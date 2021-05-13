@@ -5,7 +5,7 @@
 3. Enter your pincode in console App
 
 To Run Program.cs:
-1. Copy file data for C# console app
+1. Copy file data in C# console app
 2. Install nuget Microsoft.AspNet.WebApi.Client
 3. Use C# 7.3
 
